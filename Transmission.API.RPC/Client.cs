@@ -37,7 +37,7 @@ namespace Transmission.API.RPC
         private bool _needAuthorization;
 
 		/// <summary>
-		/// Initialize client
+		/// Initialize client useless edit
 		/// </summary>
 		/// <param name="host">Host adresse</param>
 		/// <param name="sessionID">Session ID</param>
